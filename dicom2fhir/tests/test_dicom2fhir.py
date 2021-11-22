@@ -1,6 +1,6 @@
 import os
 import unittest
-from .. import dicom2fhir
+from dicom2fhir import dicom2fhir
 from fhir import resources as fr
 
 
